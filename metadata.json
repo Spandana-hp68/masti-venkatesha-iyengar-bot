@@ -1,0 +1,7 @@
+{
+  "name": "Masti Venkatesha Iyengar Bot",
+  "description": "A vibrant, accessible, and modern web app for a multilingual literature chatbot specializing in the works of Masti Venkatesha Iyengar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
